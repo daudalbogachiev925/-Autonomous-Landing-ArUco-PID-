@@ -1,0 +1,6 @@
+marker_size: 0.3
+target_distance: 0.5
+pid:
+  x: {kp: 0.8, ki: 0.05, kd: 0.1}
+  y: {kp: 0.8, ki: 0.05, kd: 0.1}
+  z: {kp: 1.0, ki: 0.1, kd: 0.15}
