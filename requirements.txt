@@ -1,0 +1,4 @@
+opencv-contrib-python==4.9.0.80
+numpy==1.26.4
+pymavlink==2.4.40
+pytest==8.1.1
